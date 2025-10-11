@@ -1,5 +1,5 @@
 #include <memory>
 
 int main() {
-    auto ptr = std::make_unique<int>(42);
+    printf("hello world\n");
 }
